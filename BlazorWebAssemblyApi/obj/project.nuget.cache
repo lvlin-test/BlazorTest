@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HJEjzOSmRLq0uQMuSoTxFQ9jhRIqiv55KfySVwqpItUd4keWB/udrXummkwgkMzjm5C0hJ2ObU77NH0M5RISng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\BlazorWebAssemblyApi\\BlazorWebAssemblyApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
